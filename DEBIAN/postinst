@@ -1,4 +1,4 @@
 #!/bin/bash 
 clear
-echo "Usage ahxplayer file.ahx"
+echo "Usage: ahxplayer file.ahx"
 echo "Find AHX files at https://telparia.com/fileFormatSamples/music/ahx/"
