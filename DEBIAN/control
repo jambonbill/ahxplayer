@@ -1,0 +1,9 @@
+Package: ahxxplayer
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: jambonbill <jambonbill@gmail.com>
+Description: Play AMIGA AHX file in the console.
+Homepage: https://github.com/jambonbill/ahxplayer
